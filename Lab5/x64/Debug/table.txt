@@ -1,4 +1,0 @@
-Figure: Cube|x1: 319|y1: 204|x2: 562|y2: 369|
-Figure: Cube|x1: 715|y1: 182|x2: 700|y2: 423|
-Figure: Cube|x1: 966|y1: 233|x2: 1104|y2: 416|
-Figure: Points with line|x1: 187|y1: 150|x2: 760|y2: 136|
